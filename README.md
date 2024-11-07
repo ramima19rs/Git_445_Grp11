@@ -6,4 +6,4 @@ Gather images of notable figures from diverse fields: artists, movie actors, ath
 # Group members 
  
 Syeda Ramima Rafsana Nadia 2012863042
-Ahanaf Tahomid Name 1831920642
+Ahanaf Tahomid 1831920642
